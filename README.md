@@ -1,6 +1,5 @@
-poland smoothie
+nick I like ww2 and ww1
 
-_*you can invade poland*_
 
 
 
