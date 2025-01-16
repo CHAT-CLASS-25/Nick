@@ -1,4 +1,16 @@
 hi{
 
     color:blue;
+
+}
+
+
+.dvMain{
+    display: flex;
+    flex-wrap: wrap;
+    width: 500px;
+    height: 500px;
+    border: 1px solid black;
+    background-color: cadetblue;
+
 }
